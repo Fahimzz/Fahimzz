@@ -71,11 +71,6 @@ Git • Docker • Kubernetes (learning) • CI/CD pipelines
 
 ---
 
-### ⌨️ Weekly Coding Activity (WakaTime)
-
-[![Fahim's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME\&theme=radical)](https://wakatime.com/@YOUR_USERNAME)
-
----
 
 ### 📫 Connect with Me
 
