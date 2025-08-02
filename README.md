@@ -1,4 +1,3 @@
-Based on your CV and excluding the specific job experiences and project details, here’s a revised and streamlined version of your `README.md` for GitHub that highlights your backend focus, skill set, certifications, and stats:
 
 ---
 
