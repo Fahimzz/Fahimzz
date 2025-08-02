@@ -85,4 +85,3 @@ Git • Docker • Kubernetes (learning) • CI/CD pipelines
 
 ---
 
-Let me know if you'd like me to help generate or host any of these dynamic images (like GitHub stats or WakaTime) yourself. Also replace `YOUR_USERNAME` in the WakaTime URL if you're using it.
