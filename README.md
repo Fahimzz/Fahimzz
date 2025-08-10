@@ -1,4 +1,3 @@
-
 ---
 
 ## Hi there 👋 I'm Shahariar Imtiaz Fahim
@@ -21,13 +20,13 @@ I'm a dedicated **Backend Developer** with a strong foundation in building high-
 ### 🛠️ Tech Stack
 
 **Languages:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Frameworks & Libraries:**
 .NET Core • NestJS • FastAPI • Laravel
@@ -54,23 +53,28 @@ Git • Docker • Kubernetes (learning) • CI/CD pipelines
 
 ### 📊 GitHub Stats
 
-![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahimzz\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimzz\&layout=compact\&theme=radical)
+![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahimzz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimzz&layout=compact&theme=radical)
+
+---
+
+### 🧮 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Fahimzz?theme=dark&font=Source%20Code%20Pro&ext=activity)](https://leetcode.com/u/Fahimzz/)
 
 ---
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fahimzz\&theme=radical\&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fahimzz&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ### 🧠 Contribution Graph
 
-[![Fahim's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahimzz\&theme=radical)](https://github.com/Fahimzz)
+[![Fahim's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahimzz&theme=radical)](https://github.com/Fahimzz)
 
 ---
-
 
 ### 📫 Connect with Me
 
@@ -79,4 +83,3 @@ Git • Docker • Kubernetes (learning) • CI/CD pipelines
 * 📧 [Email](mailto:shahariarfahim@gmail.com)
 
 ---
-
