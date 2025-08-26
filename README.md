@@ -58,11 +58,11 @@ Git • Docker • Kubernetes (learning) • CI/CD pipelines
 
 ---
 
-### 🧮 LeetCode Stats
+### 🧮 LeetCode Stats & Daily Streaks
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Fahimzz?theme=dark&font=Source%20Code%20Pro&ext=activity)](https://leetcode.com/u/Fahimzz/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Fahimzz?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/u/Fahimzz/)
 [![LeetCode Daily Streak](https://leetcard.jacoblin.cool/Fahimzz?theme=dark&ext=activity)](https://leetcode.com/u/Fahimzz/)
-[![LeetCode Streak](https://leetcard.jacoblin.cool/Fahimzz?theme=dark&ext=heatmap)](https://leetcode.com/u/Fahimzz/)
+
 
 
 
