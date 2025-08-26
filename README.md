@@ -57,11 +57,12 @@ Git • Docker • Kubernetes (learning) • CI/CD pipelines
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahimzz&layout=compact&theme=radical)
 
 ---
-
-### 🧮 LeetCode Stats & Daily Streaks
+### 🧮 LeetCode Stats, Daily Streaks & Heatmap
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Fahimzz?theme=dark&font=Source%20Code%20Pro)](https://leetcode.com/u/Fahimzz/)
 [![LeetCode Daily Streak](https://leetcard.jacoblin.cool/Fahimzz?theme=dark&ext=activity)](https://leetcode.com/u/Fahimzz/)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Fahimzz?theme=dark&ext=heatmap)](https://leetcode.com/u/Fahimzz/)
+
 
 
 
