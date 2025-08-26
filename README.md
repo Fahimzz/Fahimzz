@@ -67,6 +67,7 @@ Git • Docker • Kubernetes (learning) • CI/CD pipelines
 ### 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fahimzz&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![LeetCode Streak](https://leetcard.jacoblin.cool/Fahimzz?theme=dark&ext=heatmap)](https://leetcode.com/u/Fahimzz/)
 
 ---
 
