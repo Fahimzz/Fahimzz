@@ -64,16 +64,6 @@ Git • Docker • Kubernetes (learning) • CI/CD pipelines
 
 
 
-
-
----
-
-### 🧠 Contribution Graph
-
-[![Fahim's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahimzz&theme=radical)](https://github.com/Fahimzz)
-
----
-
 ### 📫 Connect with Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/shahariarimtiazfahim/)
